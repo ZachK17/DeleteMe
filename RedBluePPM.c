@@ -1,7 +1,9 @@
+
+
 #include <stdio.h>
 #include <stdlib.h>
-/* 
- *   This is a c program to create a red and blue plain pixel map.
+/*
+ *   This is a c program to create a red and blue plain pixel map. I changed this comment here!
  *   Usage: 
  * 
  *   RedBluePPM OutFileName numRows numCols
