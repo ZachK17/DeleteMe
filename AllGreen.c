@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "MyFunctions.h"
-
+// Something different
 /*
  *  This is a file to make an all green circle in the middle of our image (or .ppm)
  *  in C for the fun of programming!
